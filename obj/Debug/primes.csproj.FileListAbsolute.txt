@@ -1,8 +1,0 @@
-C:\Users\Compustore\source\repos\primes\primes\bin\Debug\primes.exe.config
-C:\Users\Compustore\source\repos\primes\primes\bin\Debug\primes.exe
-C:\Users\Compustore\source\repos\primes\primes\bin\Debug\primes.pdb
-C:\Users\Compustore\source\repos\primes\primes\obj\Debug\primes.csproj.AssemblyReference.cache
-C:\Users\Compustore\source\repos\primes\primes\obj\Debug\primes.csproj.SuggestedBindingRedirects.cache
-C:\Users\Compustore\source\repos\primes\primes\obj\Debug\primes.csproj.CoreCompileInputs.cache
-C:\Users\Compustore\source\repos\primes\primes\obj\Debug\primes.exe
-C:\Users\Compustore\source\repos\primes\primes\obj\Debug\primes.pdb
