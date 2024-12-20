@@ -7,3 +7,4 @@ then there is a prime1() function to know if the input is prime or not.
 and it divides the input by all odd numbers that are less than the square root of the input
 _a theory in the number theory (x is prime when x hasn't a prime divisor <= √x)_
 
+\[ T^{i_1 i_2 \dots i_p}_{j_1 j_2 \dots j_q} = T(x^{i_1},\dots,x^{i_p},e_{j_1},\dots,e_{j_q}) \]
