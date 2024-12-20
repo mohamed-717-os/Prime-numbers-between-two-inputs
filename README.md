@@ -6,3 +6,7 @@ _because all prime numbers are odd except 2_
 then there is a prime1() function to know if the input is prime or not.
 and it divides the input by all odd numbers that are less than the square root of the input
 _a theory in the number theory (x is prime when x hasn't a prime divisor <= √x)_
+
+$$
+  T(n) = \sum_{h=0}^{\lfloor \log n \rfloor} \frac{n}{2^{h+1}} \cdot h = O(n)
+$$
